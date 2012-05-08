@@ -1,0 +1,36 @@
+ZHSC Qt Version
+
+Project Name: ZHSC Qt Version
+Project Description: A software describing chinese poems with Qt programming
+
+Authors Name: Cavendish ( cavendish@qiliang.net )
+Authors Web Site: http://www.qiliang.net/software/zhsc.html
+
+Requirments:
+Qt ( I used version 3.1.1 Free and Enterprise for Unix/X11, and 3.1.0 Enterprise for MS/Windows )
+http://www.trolltech.com
+
+(1)Unix/X11
+gcc ( I used gcc 3.2 )
+http://gcc.gnu.org
+X ( I used version 4.2.0 )
+http://www.xfree86.org
+
+(2)MS/Windows
+Microsoft Visual Studio ( I used version 6.0 )
+http://www.microsoft.com
+
+Known bugs/issues:
+
+Qt also support Macintosh and Embedded. But I didn't compile my source code on them.
+
+Contact:
+
+If you have problems, comments, or have useful hints,
+email me at cavendish@qiliang.net.
+
+Credits:
+
+Fang Min and his Poems 6000 (http://www.zhsc.com).
+
+--Cavendish ( 2003/06/23 )

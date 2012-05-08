@@ -1,0 +1,35 @@
+中华诗词 Qt版
+
+项目名称：中华诗词 Qt版
+项目描述：一个使用Qt编写的介绍中华诗词的软件
+
+作者姓名：Cavendish ( cavendish@qiliang.net )
+作者网站：http://www.qiliang.net/software/zhsc.html
+
+需求：
+Qt （ 我在Unix/X11上使用的是3.1.1的自由版和企业版，在MS/Windows上使用的是3.1.0的企业版 ）
+http://www.trolltech.com
+
+(1)Unix/X11
+gcc （ 我使用的是3.2 ）
+http://gcc.gnu.org
+X （ 我使用的是4.2.0 ）
+http://www.xfree86.org
+
+(2)MS/Windows
+Microsoft Visual Studio （ 我使用的是6.0 ）
+http://www.microsoft.com
+
+已知bug/问题：
+
+1. Qt也支持Macintosh和嵌入式系统。但是我还没有在这些系统上编译我的代码。
+
+联系：
+
+如果你有什么问题、说明，或者有用的提示，请给我发email（ cavendish@qiliang.net ）。
+
+感谢：
+
+方旻以及他的中华诗词6000，我的程序就是使用他的程序的数据进行设计的（http://www.zhsc.com）。
+
+--Cavendish （ 2003/06/23 ）

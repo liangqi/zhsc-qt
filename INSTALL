@@ -1,0 +1,31 @@
+Basic Installation
+==================
+
+Unix/X11:
+
+The simplest way to compile this package is:
+
+  1. 'cd' to the directory containing the package's source code and type
+     'qmake zhsc.pro' to generate the makefile for your system.
+
+  2. Type 'make' to compile the package.
+
+  3. Type './zhsc' to run the application.
+
+MS/Windows:
+
+The simplest way to compile this package is:
+
+  1. 'cd' to the directory containing the package's source code and type
+     `qmake zhsc.pro' to generate the makefile for your system.
+
+  2. Type 'nmake' to compile the package.
+
+  3. Type 'zhsc.exe' to run the application.
+
+Aother way to compile this package is:
+
+  1. 'cd' to the directory containing the package's source code and type
+     `qmake -t vcapp -o zhsc.dsp zhsc.pro' to generate the .dsp file for your system.
+
+  2. Use Microsoft Visual Studio 6.0 to open the project with zhsc.dsp and compile, run, debug the application in it.
